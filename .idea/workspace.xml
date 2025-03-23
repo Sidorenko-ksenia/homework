@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1335cd75-7dc0-4bff-8473-37f073276a7f" name="Changes" comment="New">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1335cd75-7dc0-4bff-8473-37f073276a7f" name="Changes" comment="New" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,23 +21,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="https://github.com/Sidorenko-ksenia/Lesson-7" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sidorenko-ksenia"
-  }
+  "history": [
+    {
+      "state": "OPEN",
+      "author": "Sidorenko-ksenia"
+    }
+  ],
+  "lastFilter": {}
 }]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="573c937c-10ef-4145-8d1d-e67a4f112568" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sidorenko-ksenia/Homework",
-    "accountId": "573c937c-10ef-4145-8d1d-e67a4f112568"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sidorenko-ksenia/Homework&quot;,
+    &quot;accountId&quot;: &quot;573c937c-10ef-4145-8d1d-e67a4f112568&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -57,10 +59,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "<unknown>",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/kseniasidorenko/IdeaProjects/Lesson-7/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.splitter.proportion": "0.299389"
   }
 }]]></component>
   <component name="RunManager">
@@ -116,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742752972732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New">
+      <option name="closed" value="true" />
+      <created>1742753860508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742753860508</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
