@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1335cd75-7dc0-4bff-8473-37f073276a7f" name="Changes" comment="">
+    <list default="true" id="1335cd75-7dc0-4bff-8473-37f073276a7f" name="Changes" comment="New">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +34,6 @@
   ],
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="573c937c-10ef-4145-8d1d-e67a4f112568" />
-  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Sidorenko-ksenia/Homework&quot;,
@@ -67,7 +63,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "settings.editor.splitter.proportion": "0.299389"
   }
 }]]></component>
@@ -132,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742753860508</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New">
+      <option name="closed" value="true" />
+      <created>1744104429565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744104429565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
